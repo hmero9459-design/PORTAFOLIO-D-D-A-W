@@ -7,7 +7,7 @@
 1. Hector Enrique Mero Guerrero
 
 ## Asignatura
-Desarrollo de Sistemas Informáticos
+DESARROLLO DE APLICACIONES WEB 
 
 ## Descripción
 Repositorio creado para almacenar todas las actividades y proyectos desarrollados durante la asignatura.
